@@ -20,7 +20,3 @@
   <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300em" width="795em">
 </p>
 
-<div align="center">
-  <h3>Thanks for visiting! 👋</h3>
-  <img src="https://raw.githubusercontent.com/Julia-novo/Julia-novo/main/mario.gif" alt="Mario dando tchau" width="180">
-</div>
