@@ -22,5 +22,5 @@
 
 <div align="center">
   <h3>Thanks for visiting! 👋</h3>
-  <img src="mario.gif" alt="Mario dando tchau" width="180">
+  <img src="https://raw.githubusercontent.com/Julia-novo/Julia-novo/main/mario.gif" alt="Mario dando tchau" width="180">
 </div>
